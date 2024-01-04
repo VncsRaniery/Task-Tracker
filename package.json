@@ -1,0 +1,23 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "Construa um aplicativo de rastreamento de tarefas usando TypeScript. Aplique interfaces e tipos para melhorar a segurança do código.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VncsRaniery/Task-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VncsRaniery/Task-Tracker/issues"
+  },
+  "homepage": "https://github.com/VncsRaniery/Task-Tracker#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
